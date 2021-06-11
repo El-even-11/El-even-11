@@ -1,6 +1,8 @@
 # Hello, Here is Eleven!
 
-A poor coder from Shanghai Jiao Tong University
+* A poor coder from Shanghai Jiao Tong University
+
+* Wandering on the verge of dropping out
 
 # Contact Me
 
