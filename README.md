@@ -6,9 +6,9 @@
 
 # Contact Me
 
-E-mail: <zhao_ziqian@sjtu.edu.cn>
+* E-mail: <zhao_ziqian@sjtu.edu.cn>
 
-QQ: 740614810
+* QQ: 740614810
 
 --------
 
