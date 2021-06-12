@@ -2,7 +2,11 @@
 
 * A poor coder from Shanghai Jiao Tong University
 
+* Major in computer science
+
 * Wandering on the verge of dropping out
+
+* Java & C++
 
 # Contact Me
 
