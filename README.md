@@ -1,10 +1,6 @@
 # Hello, Here is Eleven!
 
-* A poor coder from Shanghai Jiao Tong University
-
-* Major in Computer Science
-
-* On the verge of dropping out
+* Computer Science in SJTU
 
 * Java & C++
 
