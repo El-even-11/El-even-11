@@ -2,7 +2,6 @@
 
 * Computer Science in SJTU
 
-* Java & C++
 
 # Contact Me
 
