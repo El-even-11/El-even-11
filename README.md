@@ -1,12 +1,11 @@
 # Hello, Here is Eleven!
 
 * Computer Science in SJTU
-
+* [My blog](https://el-even-11.github.io)
 
 # Contact Me
 
 * E-mail: <zhao_ziqian@sjtu.edu.cn>
-
 * QQ: 740614810
 
 --------
