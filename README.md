@@ -1,15 +1,35 @@
-# Hello, Here is Eleven!
+```python
+class ReadMe:
+    def __init__(self):
+        self.name = 'Eleven'
+        self.education = {
+            'undergraduate': ['Shanghai Jiao Tong University', 'Computer Science']
+        }
+        self.contact = {
+            'personal blog': ['https://El-even-11.github.io'],
+            'email': ['zhao_ziqian@sjtu.edu.cn']
+        }
 
-* Computer Science in SJTU
-* [My blog](https://el-even-11.github.io)
+    def knowing(self, what):
 
-# Contact Me
+        if what is 'Who are you?':
+            name = self.name
+            education = self.education['undergraduate']
+            return """
+            I am {name}, an undergraduate in {university}, majoring in {major}.
+            """.format(name=name,university=education[0], major=education[1])
 
-* E-mail: <zhao_ziqian@sjtu.edu.cn>
-* QQ: 740614810
+        elif what is 'How to contact you?':
+            blog = self.contact['personal blog']
+            email = self.contact['email']
+            return """
+            Please contact me with email {email}, or my blog {blog}.
+            """.format(email=email[0], blog=blog[0])
 
---------
+        else:
+            return """
+            ### Hi there 👋
+            """
 
-![El-even-11's github stats](https://github-readme-stats.vercel.app/api?username=El-even-11&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=El-even-11&layout=compact&theme=tokyonight)](https://github.com/El-even-11)
+me = ReadMe()
+```
