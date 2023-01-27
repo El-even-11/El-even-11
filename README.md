@@ -9,9 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C++        23 mins         >>>>>>>>>>>>>>>>>>>>>----   84.64 %
-Markdown   3 mins          >>>>---------------------   14.11 %
-CSV        0 secs          -------------------------   01.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
