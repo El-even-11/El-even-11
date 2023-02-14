@@ -9,7 +9,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C++    2 mins          >>>>>>>>>>>>>>>>>>-------   70.79 %
+JSON   0 secs          >>>>>>>------------------   29.21 %
 ```
 
 <!--END_SECTION:waka-->
