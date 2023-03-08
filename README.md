@@ -9,8 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Rust          2 hrs 7 mins    >>>>>>>>>>>--------------   43.29 %
-Other         1 hr 11 mins    >>>>>>-------------------   24.27 %
+Python     4 hrs 11 mins   >>>>>>>>>>>>>------------   52.49 %
+Rust       2 hrs 7 mins    >>>>>>>------------------   26.62 %
+Other      1 hr 11 mins    >>>>---------------------   14.92 %
 ```
 
 <!--END_SECTION:waka-->
