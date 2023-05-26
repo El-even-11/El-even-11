@@ -1,6 +1,7 @@
 ### Hey 👋, I'm Eleven
 
-- 📚 Currently a junior student major in Computer Science at Shanghai Jiao Tong University.
+- 📚 Currently a third year undergraduate major in Computer Science at Shanghai Jiao Tong University.
+- 🍻 Incoming intern of Oceanbase, Ant Group.
 - 🗃️ Interested in databases and distributed systems.
 - ✨ Check out my [blog](https://blog.eleven.wiki) here.
 
