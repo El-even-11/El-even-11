@@ -9,7 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+CMake         14 mins         >>>>>>>>>>>>>>>>>>>>>>---   89.86 %
+C             0 secs          >------------------------   04.53 %
+C++           0 secs          >------------------------   03.81 %
+Objective-C   0 secs          -------------------------   01.47 %
+Git Config    0 secs          -------------------------   00.31 %
 ```
 
 <!--END_SECTION:waka-->
