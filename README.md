@@ -9,7 +9,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++           25 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   99.76 %
+Objective-C   0 secs          -------------------------   00.24 %
 ```
 
 <!--END_SECTION:waka-->
