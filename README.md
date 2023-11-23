@@ -9,9 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++    12 mins         >>>>>>>>>>>>>------------   53.88 %
-JSON   7 mins          >>>>>>>>>----------------   34.81 %
-Bash   2 mins          >>>----------------------   11.31 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
