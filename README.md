@@ -9,8 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java Properties   14 mins         >>>>>>>>>>>>>>>>---------   64.29 %
-Java              7 mins          >>>>>>>>>----------------   35.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
