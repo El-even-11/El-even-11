@@ -9,7 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java              27 mins         >>>>>>>>>>>>>>>>>>>>>----   85.13 %
+JSON              3 mins          >>-----------------------   09.81 %
+Other             1 min           >------------------------   04.70 %
+CSV               0 secs          -------------------------   00.31 %
+Java Properties   0 secs          -------------------------   00.05 %
 ```
 
 <!--END_SECTION:waka-->
