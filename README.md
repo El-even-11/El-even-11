@@ -8,7 +8,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+CMake   1 min           >>>>>>>>>>>>>>>>>>>>>----   82.11 %
+C++     0 secs          >>>>---------------------   17.89 %
 ```
 
 <!--END_SECTION:waka-->
